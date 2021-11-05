@@ -1,0 +1,11 @@
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\bin\Debug\Billing Report.exe.config
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\obj\Debug\Billing Report.vbprojResolveAssemblyReference.cache
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\obj\Debug\Billing_Report.frmReport.resources
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\obj\Debug\Billing_Report.Resources.resources
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\obj\Debug\Billing Report.vbproj.GenerateResource.Cache
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\obj\Debug\Billing Report.xml
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\bin\Debug\Billing Report.exe
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\bin\Debug\Billing Report.pdb
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\bin\Debug\Billing Report.xml
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\obj\Debug\Billing Report.exe
+C:\Users\Charles\OneDrive\COS101\Billing Report\Billing Report\obj\Debug\Billing Report.pdb
